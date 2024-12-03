@@ -13,7 +13,7 @@ source .venv/bin/activate
 '''bash
 git add .
 git commit -m "comment"
-git push -u origin main
+git push -u origin master
 '''
 
 ## Install Dependencies
